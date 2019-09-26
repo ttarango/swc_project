@@ -1,11 +1,12 @@
-Work that we did.
+# swc_project
+Example repository for software carpentry
+#Software Carpentry Project
 
-# Install
- To install, clone this.
- ## useage
+![SWC Image](https://potterzot.com/2019-09-25-unm/assets/img/swc-icon-blue.svg)
 
-to use this repositiory, install it and then add it to 'R' with:
+## Installation
 
-'''{r}
-library(ggplot)
-'''
+To install, clone this reposository.
+## Usage
+
+
